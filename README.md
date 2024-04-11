@@ -67,9 +67,7 @@ Author: Omm Singh
 
 3. **Revenue Distribution** by Division and by Channel using two respective Donut Charts.
 
-**Key Insights by Subzone**
-
-Yearly Trend of Net Sales, Gross Margin %, Net Profit %, and PC Market Share % using a Line and Clustered Column Chart.
+4. **Key Insights by Subzone** Yearly Trend of Net Sales, Gross Margin %, Net Profit %, and PC Market Share % using a Line and Clustered Column Chart.
 
 
 **Technical Skills**:
