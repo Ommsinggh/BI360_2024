@@ -1,11 +1,11 @@
 # BI360_2024
 Author: Omm Singh
 ------------------------------------------------------------------------------------------------
-**Live Dashboard: Business Insights 360**
+**Live Dashboard**: [Business Insights 360](https://app.powerbi.com/view?r=eyJrIjoiMWJkNzA5MjEtZDYzNy00ZGI2LTkyZTEtYjc2NzYzYTRjZGU0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-Home Page :
+**Home Page** :
 
-1. Created a Home Page for the user to navigate to different Views in the Dashboard.
+1. Created a [Home Page](https://github.com/Ommsinggh/BI360_2024/blob/d51a8bace85ded4b871e7be7813849ed082d67a1/Home%20Page.png) for the user to navigate to different Views in the Dashboard.
 
 2. The Images have navigation to their respective Views.
 
@@ -17,7 +17,7 @@ Home Page :
 
 **Finance View** :
 ------------------------------------------------------------------------------------------------
-1. Created a **Dashboard** for Finance View
+1. Created a **Dashboard** for [Finance View](https://github.com/Ommsinggh/BI360_2024/blob/d51a8bace85ded4b871e7be7813849ed082d67a1/Finance%20View.png)
 
 2. **KPI Visuals**: KPI Visuals for Net Sales, Gross Margin %, and Net Profit %, compared with their benchmark values(Last Year/Targets).
 
@@ -27,7 +27,7 @@ Home Page :
 
 **Sales View** :
 ------------------------------------------------------------------------------------------------
-1. Created a **Dashboard** for Sales View
+1. Created a **Dashboard** for [Sales View](https://github.com/Ommsinggh/BI360_2024/blob/d51a8bace85ded4b871e7be7813849ed082d67a1/Sales%20View.png)
 
 2. **Customer Performance**: Customer Performance is based on their Net Sales, Gross Margin, and Gross Margin %.
 
@@ -39,7 +39,7 @@ Home Page :
 
 **Marketing View** :
 ------------------------------------------------------------------------------------------------
-1. Created a **Dashboard** for Marketing View
+1. Created a **Dashboard** for [Marketing View](https://github.com/Ommsinggh/BI360_2024/blob/d51a8bace85ded4b871e7be7813849ed082d67a1/Marketing%20View.png)
 
 2. **Product Performance**: Product Performance is based on Net Sales, Gross Margin, Gross Margin %, Net Profit, and Net Profit %.
 
@@ -51,7 +51,7 @@ Home Page :
 
 **Supply Chain View** :
 ------------------------------------------------------------------------------------------------
-1. Created a **Dashboard** for Supply Chain View
+1. Created a **Dashboard** for [Supply Chain View](https://github.com/Ommsinggh/BI360_2024/blob/d51a8bace85ded4b871e7be7813849ed082d67a1/Supply%20Chain%20View.png)
 
 2. **KPI Visuals**: KPI Visuals for Forecast Accuracy, Net Error, and ABS Error compared with their benchmark values(Last year).
 
@@ -61,7 +61,7 @@ Home Page :
 
 **Executive View** :
 ------------------------------------------------------------------------------------------------
-1. Created a **Dashboard** for Executive View
+1. Created a **Dashboard** for [Executive View](https://github.com/Ommsinggh/BI360_2024/blob/d51a8bace85ded4b871e7be7813849ed082d67a1/Executive%20View.png)
 
 2. **KPI Visuals**: KPI Visuals for Forecast Accuracy, Net Sales, Gross Margin %, and Net Profit % compared with their benchmark values(Last Year/Targets).
 
@@ -71,14 +71,7 @@ Home Page :
 
 Yearly Trend of Net Sales, Gross Margin %, Net Profit %, and PC Market Share % using a Line and Clustered Column Chart.
 
-**Product View** :
-------------------------------------------------------------------------------------------------
-1. Created a **Dashboard** for Product View
 
-2. Customer Performance by **GM % Target with Conditional formatting** for a specific target value to tell which customers are meeting the goals.
-
-3. **Top 5 and Bottom 5 Products for Market**: Top 5 and Bottom 5 Products filtered by Gross Margin %, Gross Margin % LY, and Gross Margin % Growth.
-   
 **Technical Skills**:
 ------------------------------------------------------------------------------------------------
 **1**. Proficiency in ETL methodology (Extract, Transform, Load).
